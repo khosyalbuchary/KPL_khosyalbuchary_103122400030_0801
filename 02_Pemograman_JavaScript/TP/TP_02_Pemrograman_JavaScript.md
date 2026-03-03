@@ -12,7 +12,7 @@
 ---
 
 ## ❓ Soal
-> Kamu sudah menulis fungsi `mulOfArray`. Ujilah fungsi tersebut dengan input `[2, 0, 26, 28, -2]`, dengan output yang seharusnya adalah **1456**. Jika hasil yang diperoleh berbeda, jelaskan penyebabnya dan perbaiki program tersebut. Jika hasilnya sudah sesuai, jelaskan alasan mengapa program dapat menghasilkan output yang benar.
+Kamu sudah menulis fungsi mulOfArray. Ujilah fungsi tersebut dengan input [2, 0, 26, 28, -2], dengan output yang seharusnya adalah **1456**. Jika hasil yang diperoleh berbeda, jelaskan penyebabnya dan perbaiki program tersebut. Jika hasilnya sudah sesuai, jelaskan alasan mengapa program dapat menghasilkan output yang benar.
 
 ---
 
