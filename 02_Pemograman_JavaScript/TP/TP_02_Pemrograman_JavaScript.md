@@ -18,17 +18,9 @@ Kamu sudah menulis fungsi `mulOfArray`. Ujilah fungsi tersebut dengan input `[2,
 
 ## Jawaban
 
-Setelah dilakukan pengujian menggunakan input `[2, 0, 26, 28, -2]`, program menghasilkan output **1456**, sesuai dengan hasil yang diharapkan.
-
-Hal ini terjadi karena pada fungsi digunakan kondisi `if (arr[i] > 0)`, sehingga hanya bilangan positif yang diproses dalam perkalian. Nilai 0 dan bilangan negatif tidak ikut dihitung.
-
-Pada input tersebut, bilangan positif yang dikalikan adalah 2, 26, dan 28, sehingga menghasilkan:
-
-2 × 26 × 28 = 1456
-
-Dengan demikian, program sudah berjalan sesuai dengan ketentuan soal.
-
----
+Program ini dirancang untuk menghitung total nilai dari seluruh elemen yang tersimpan di dalam sebuah larik atau array. 
+Logika utamanya bekerja dengan cara menyiapkan sebuah variabel penampung yang dimulai dari angka nol, kemudian melakukan penelusuran satu per satu ke setiap angka yang ada di dalam daftar tersebut. 
+Setiap kali menemukan angka baru dalam urutan larik, program akan menambahkannya ke variabel penampung secara kumulatif hingga seluruh data selesai diperiksa, lalu hasil akhir penjumlahannya akan ditampilkan sebagai output utama.
 
 ## Kode Sumber
 
@@ -44,4 +36,6 @@ Tersedia pada file [index.js](../index.js)
 
 ## Deskripsi Program
 
-Program ini berfungsi untuk mengalikan semua bilangan positif dalam sebuah array. Nilai nol dan bilangan negatif tidak dihitung karena kondisi yang digunakan hanya memproses angka yang lebih besar dari nol. Dengan logika tersebut, program menghasilkan output yang sesuai dengan yang diharapkan.
+Aplikasi ini merupakan alat bantu sederhana berbasis logika pemrograman untuk mengolah data numerik dalam bentuk kelompok atau daftar (array). 
+Fokus utama dari program ini adalah memberikan solusi cepat dalam menjumlahkan kumpulan angka secara otomatis tanpa harus menghitungnya secara manual. 
+Dengan struktur yang efisien, program ini mampu menangani berbagai jumlah data dalam larik dan memastikan akurasi hasil perhitungan total, sehingga sangat berguna untuk dasar pengolahan data statistik atau ringkasan nilai dalam sebuah sistem.
