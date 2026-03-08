@@ -2,7 +2,7 @@
 
 ## Identitas
 
-Nama : Khosyal Buchary
+Nama : Khosy alBuchary
 NIM : 103122400030
 Kelas : SE-0801
 
@@ -150,3 +150,4 @@ Output
 
 
 ![Output Program](Output3.png)
+
