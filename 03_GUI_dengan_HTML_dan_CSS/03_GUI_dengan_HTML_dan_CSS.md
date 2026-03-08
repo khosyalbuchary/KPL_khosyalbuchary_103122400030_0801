@@ -146,6 +146,7 @@ Program berhasil menampilkan halaman konversi teks yang dapat:
 * Mengubah teks menjadi huruf kecil
 * Mengubah teks menjadi format paragraf
 
-Tambahkan screenshot hasil program di bawah ini.
+Output
+
 
 ![Output Program](Output3.png)
