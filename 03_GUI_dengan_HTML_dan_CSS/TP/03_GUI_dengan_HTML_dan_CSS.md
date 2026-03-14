@@ -2,7 +2,7 @@
 
 ## Identitas
 
-Nama : Khosyal Buchary
+Nama : Khosy alBuchary
 
 NIM : 103122400030
 
