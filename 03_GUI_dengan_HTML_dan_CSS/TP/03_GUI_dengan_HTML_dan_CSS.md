@@ -8,22 +8,9 @@ Kelas : SE-0801
 
 ---
 
-# Deskripsi Program
+# Tugas
 
-Program ini adalah aplikasi web sederhana untuk melakukan konversi gaya teks menggunakan HTML, CSS, dan JavaScript.
-
-Program memiliki beberapa fitur yaitu:
-
-* Menghitung jumlah huruf pada teks
-* Menghitung jumlah huruf besar
-* Menghitung jumlah huruf kecil
-* Mengubah teks menjadi huruf besar
-* Mengubah teks menjadi huruf kecil
-* Mengubah teks menjadi format paragraf
-
-Program menggunakan konsep **DOM (Document Object Model)** untuk memanipulasi elemen HTML menggunakan JavaScript.
-
----
+Buatlah tata letak laman yang kamu buat berada di tengah, dan juga ubah font-nya dengan Inconsolata dari Google Fonts.
 
 # Struktur Project
 
