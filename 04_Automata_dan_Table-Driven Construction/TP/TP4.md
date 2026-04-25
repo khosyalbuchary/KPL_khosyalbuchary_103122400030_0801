@@ -1,4 +1,4 @@
-# Tugas Pendahuluan 04
+# Tugas Pendahuluan 02
 **Nama :** Khosy AlBuchary
 
 **NIM :** 103122400030

@@ -2,10 +2,8 @@
 
 ## Identitas
 
-Nama : Khosy alBuchary
-
+Nama : Khosyal Buchary
 NIM : 103122400030
-
 Kelas : SE-0801
 
 ---
@@ -135,7 +133,6 @@ Program berhasil menampilkan halaman konversi teks yang dapat:
 * Mengubah teks menjadi huruf kecil
 * Mengubah teks menjadi format paragraf
 
-Output
-
+Tambahkan screenshot hasil program di bawah ini.
 
 ![Output Program](Output3.png)
